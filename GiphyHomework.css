@@ -1,0 +1,53 @@
+.container {
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+  clear: both;
+  font-size: 18px;
+}
+
+button{
+  margin: 10px;
+  background-color: blue;
+  color: white;
+  padding: 5px;
+  font-size: 18px;
+}
+
+#animal-form{
+  font-size: 24px;
+}
+
+.gif{
+  margin: 2px;
+}
+
+form{
+  margin: 10px;
+}
+
+input{
+  margin: 10px;
+}
+
+.showButton{
+  background-color: tomato;
+}
+
+#buttons-view{
+  margin: 10px 0 50px 0;
+}
+
+li{
+  list-style: none;
+  margin: 10px;
+}
+
+.outView{
+  margin: 5px;
+  float: left;
+}
+
+#animals-views{
+  margin: 10px;
+}
